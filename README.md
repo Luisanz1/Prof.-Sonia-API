@@ -1,5 +1,5 @@
-## Mantaro's API
-This handles all of [Mantaro's](https://github.com/Mantaro/MantaroBot) games and works as a bridge between the different instances of the bot to get shared data
+## PROF.SONIA API
+This handles all of
 
 Usually this includes
 - Splashes
